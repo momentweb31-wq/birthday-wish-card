@@ -2,8 +2,7 @@
 
 <p>A heartwarming and animated web-based birthday card made with only HTML, CSS, and JS — no backend or framework needed. This page is designed to give your loved ones a memorable digital surprise! 💝</p>
 
-<h3>🔗 Live Demo:</h3>
-<p><a href="https://engrshuvodas.github.io/Birthday-Wish-Card/" target="_blank">Click here to view the Birthday Wish Card</a></p>
+
 
 <hr>
 
@@ -73,22 +72,3 @@ Birthday-Wish-Card/
 
 <hr>
 
-<h2>📝 License</h2>
-<p>This project is licensed under the <a href="LICENSE">MIT License</a>.</p>
-
-<hr>
-
-| Platform | Link |
-| :--- | :--- |
-| **WhatsApp** | [Chat Now](https://wa.me/+8801765245872) |
-| **LinkedIn** | [Profile](https://www.linkedin.com/in/engrshuvoda/) |
-| **YouTube** | [Channel](https://www.youtube.com/channel/UCEJ0R871tF2PLT27q9azYWg) |
-| **GitHub** | [Repositories](https://github.com/engrshuvodas) |
-| **Fiverr** | [Hire Me](https://www.fiverr.com/shuvo_das74886) |
-| **Portfolio** | [About Me](https://engrshuvodas.github.io/me/) |
-| **Email** | [engrshuvoda@gmail.com](mailto:engrshuvoda@gmail.com) |
-| **X (Twitter)** | [@engrshuvodas](https://x.com/engrshuvodas) |
-| **Facebook** | [Engr Shuvo](https://www.facebook.com/engr.shuvo74886/) |
-
-<h2>💬 Special Thanks</h2>
-<p>Made with ❤️ by <a href="https://github.com/engrshuvodas" target="_blank">Shuvo Das</a> — because love deserves more than just a simple message.</p>
